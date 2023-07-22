@@ -1,4 +1,4 @@
-# -remote-development-and-debugging-BeagleBone-Black
+# Remote development and debugging BeagleBone Black
 
 There are many reasons for using remote development and debugging techniques for embedded systems. Embedded systems are often placed 
 in hard-to-reach places or hazardous environments. Or embedded systems are mass-produced and direct access to each unit is not 
